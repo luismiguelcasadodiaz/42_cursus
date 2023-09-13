@@ -23,3 +23,5 @@ objetivo_n : dependencias que tiene el objetivo_n
 <Tab>instrucciones para lograr el objetivo_n
 
 ```
+
+<img width="606" alt="image" src="https://github.com/luismiguelcasadodiaz/42_cursus/assets/19540140/e090f2c0-8a85-4614-a71b-e4489824f1dc">
