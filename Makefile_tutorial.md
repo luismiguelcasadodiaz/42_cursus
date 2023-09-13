@@ -46,7 +46,7 @@ Con `@` se silencian las instrucciones
 ### Variables de expansión recursiva: se definen con `=`.
 La expansión se produce en el momento del acceso a la variable o en la ejecución.
 
-### variables de expansión simple: Se definen con `:=`.
+### Variables de expansión simple: Se definen con `:=` o `::=` .
 La expansión se priduce en el momento de la asignación
 
 Para recuperar el contenido de una variable usamos el dólar y los paréntesis.
@@ -65,5 +65,32 @@ Así, por ejemplo
 En el caso de c, la regla de compilación implicita es :  `‘$(CC) $(CPPFLAGS) $(CFLAGS) -c’` y se ejecutan las instrucciones sin haberlas definido.
 
 <img width="424" alt="image" src="https://github.com/luismiguelcasadodiaz/42_cursus/assets/19540140/3572dfaf-1dba-48ae-97dc-81b5bf344b6a">
+
+## Reecompilaciones
+Quedan definidad por las fechas de modificación de los ficheros.
+Cuando una dependencia moderna ha dejado obsoleto a un objetivo, entonces se aplican las instrucciones para reconstruir el objetivo.
+
+## Patrones y variable 
+Los patrones nos premiten usar las reglas de una forma más flexible.
+
+operador `%`. Es un operador que se remplaza por uno o más caracteres.
+
+```
+%.o: %.c
+```
+quiere decir que a partir de cualquie archivo punto c, puedo generar su punto o.
+cualquier objeto terminado en punto o depende de un archivo punto c.
+
+Hay un conjunto de [variables automaticas](https://www.gnu.org/software/make/manual/make.html#Automatic-Variables) que se crean al definir los patrones
+
+`$<` se refiere a la primera dependencia de la regla
+`$?` se refiere a todas las dependencias de la regla
+`$@` se refiere al objetivo
+
+Combinando patrones y variables automáticas .....
+```
+%.o: %.c
+  $(CC) $(CFLAGS) $< -o $@
+```
 
 
