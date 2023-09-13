@@ -51,7 +51,7 @@ La expansión se priduce en el momento de la asignación
 
 Para recuperar el contenido de una variable usamos el dólar y los paréntesis.
 
-``` gcc $(CFLAGS) -o $(BINARY) $(CFLAGS)
+``` gcc $(CFLAGS) -o $(BINARY) $(CFLAGS) ```
 
 ## Reglas implicitas
 [manual](https://www.gnu.org/software/make/manual/make.html#Implicit-Rules)
