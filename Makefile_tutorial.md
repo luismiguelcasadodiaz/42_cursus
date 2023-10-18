@@ -27,7 +27,7 @@ objetivo_n : dependencias que tiene el objetivo_n
 <img width="606" alt="image" src="https://github.com/luismiguelcasadodiaz/42_cursus/assets/19540140/e090f2c0-8a85-4614-a71b-e4489824f1dc">
 
 ## Variables
-```
+``` Makefile
 OBJS = main.o salida.o calculadora.o
 BINARY = programa
 CFLAGS = -g -Wall -Wextra -Werror 
@@ -51,7 +51,9 @@ La expansión se priduce en el momento de la asignación
 
 Para recuperar el contenido de una variable usamos el dólar y los paréntesis.
 
-``` gcc $(CFLAGS) -o $(BINARY) $(CFLAGS) ```
+``` Makefile
+gcc $(CFLAGS) -o $(BINARY) $(CFLAGS)
+```
 
 ## Reglas implicitas
 [manual](https://www.gnu.org/software/make/manual/make.html#Implicit-Rules)
@@ -75,7 +77,7 @@ Los patrones nos premiten usar las reglas de una forma más flexible.
 
 operador `%`. Es un operador que se remplaza por uno o más caracteres.
 
-```
+```Makefile
 %.o: %.c
 ```
 quiere decir que a partir de cualquie archivo punto c, puedo generar su punto o.
@@ -88,9 +90,14 @@ Hay un conjunto de [variables automaticas](https://www.gnu.org/software/make/man
 `$@` se refiere al objetivo
 
 Combinando patrones y variables automáticas .....
-```
+```Makefile
 %.o: %.c
   $(CC) $(CFLAGS) $< -o $@
 ```
 
+bonus: .bonus
 
+.bonus: $(OBJS) $(BONUS_OBJS) 
+	@echo "================ GATHERING BONUS OBJECTS ====================="
+	ar rcs $(NAME) $(OBJS) $(BONUS_OBJS) 
+	touch .bonus
