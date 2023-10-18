@@ -95,9 +95,15 @@ Combinando patrones y variables automáticas .....
   $(CC) $(CFLAGS) $< -o $@
 ```
 
+
+Dina Zhuzhleva explained me this trick to avoid relinks when i have two project-parts that affect the same target.
+In this case, in the second part, i have to add bonus functions to same library where i added first part functions.
+i generate my own timestamp to avoid relink again once i added object to de library because library becomes more updted than oobjects. 
+```Makefile
 bonus: .bonus
 
 .bonus: $(OBJS) $(BONUS_OBJS) 
 	@echo "================ GATHERING BONUS OBJECTS ====================="
 	ar rcs $(NAME) $(OBJS) $(BONUS_OBJS) 
 	touch .bonus
+```
