@@ -47,7 +47,7 @@ Con `@` se silencian las instrucciones
 La expansión se produce en el momento del acceso a la variable o en la ejecución.
 
 ### Variables de expansión simple: Se definen con `:=` o `::=` .
-La expansión se priduce en el momento de la asignación
+La expansión se produce en el momento de la asignación
 
 Para recuperar el contenido de una variable usamos el dólar y los paréntesis.
 
