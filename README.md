@@ -24,7 +24,7 @@
 
 ## Circle 04
 ### [minishell](https://github.com/luismiguelcasadodiaz/minishell) [2024-07-11]
-### [philosophers]()[]
+### [philosophers](https://github.com/luismiguelcasadodiaz/philosophers)[2024-08-09]
 ### [Exam_rank_03]()[2024-03-23]
 
 ## Circle 05
