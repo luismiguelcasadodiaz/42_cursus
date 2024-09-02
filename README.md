@@ -30,7 +30,7 @@
 ## Circle 05
 ### [NetPractice](https://github.com/luismiguelcasadodiaz/NetPractice) []
 ### [miniRT](https://github.com/luismiguelcasadodiaz/miniRT)[]
-### [Exam_rank_04]()[2024-03-23]
+### [Exam_rank_04]()[]
 ### [cub3d]()[]
 ### [C++ Module 00](https://github.com/luismiguelcasadodiaz/CPP_00/tree/main)[]
 
