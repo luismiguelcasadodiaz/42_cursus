@@ -28,11 +28,15 @@
 ### [Exam_rank_03]()[2024-03-23]
 
 ## Circle 05
-### [NetPractice](https://github.com/luismiguelcasadodiaz/NetPractice) []
+### [NetPractice](https://github.com/luismiguelcasadodiaz/NetPractice) [2025-01-??]
 ### [miniRT](https://github.com/luismiguelcasadodiaz/miniRT)[2024-12-17]
 ### [Exam_rank_04](https://github.com/luismiguelcasadodiaz/Exam_rank_04)[2024-09-10]
 ### [cub3d]()[]
-### [C++ Module 00](https://github.com/luismiguelcasadodiaz/CPP_00/tree/main)[]
+### [C++ Module 00](https://github.com/luismiguelcasadodiaz/CPP_00/tree/main)[2024-12-23]
+### [C++ Module 01](https://github.com/luismiguelcasadodiaz/CPP_01/tree/main)[2025-01-08]
+### [C++ Module 02](https://github.com/luismiguelcasadodiaz/CPP_02/tree/main)[2025-01-??]
+### [C++ Module 03](https://github.com/luismiguelcasadodiaz/CPP_03/tree/main)[2025-01-??]
+### [C++ Module 04](https://github.com/luismiguelcasadodiaz/CPP_04/tree/main)[2025-01-??]
 
 ## Circle 06
 
