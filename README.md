@@ -35,7 +35,7 @@
 ### [cub3d]()[]
 ### [C++ Module 00](https://github.com/luismiguelcasadodiaz/CPP_00/tree/main)[2024-12-23]
 ### [C++ Module 01](https://github.com/luismiguelcasadodiaz/CPP_01/tree/main)[2025-01-08]
-### [NetPractice](https://github.com/luismiguelcasadodiaz/NetPractice) [2025-01-??]
+### [NetPractice](https://github.com/luismiguelcasadodiaz/NetPractice) [2025-01-20]
 ### [C++ Module 02](https://github.com/luismiguelcasadodiaz/CPP_02/tree/main)[2025-01-16]
 ### [C++ Module 03](https://github.com/luismiguelcasadodiaz/CPP_03/tree/main)[2025-01-17]
 ### [C++ Module 04](https://github.com/luismiguelcasadodiaz/CPP_04/tree/main)[2025-01-??]
