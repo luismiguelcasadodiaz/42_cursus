@@ -42,7 +42,7 @@
 
 ## Circle 06
 ### [C++ Module 05](https://github.com/luismiguelcasadodiaz/CPP_05/tree/main)[2025-10-17]
-### [C++ Module 06](https://github.com/luismiguelcasadodiaz/CPP_06/tree/main)[]
+### [C++ Module 06](https://github.com/luismiguelcasadodiaz/CPP_06/tree/main)[2025-10-26]
 ### [C++ Module 07](https://github.com/luismiguelcasadodiaz/CPP_07/tree/main)[]
 ### [C++ Module 08](https://github.com/luismiguelcasadodiaz/CPP_08/tree/main)[]
 ### [C++ Module 09](https://github.com/luismiguelcasadodiaz/CPP_09/tree/main)[]
