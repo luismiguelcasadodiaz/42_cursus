@@ -44,7 +44,7 @@
 ### [C++ Module 05](https://github.com/luismiguelcasadodiaz/CPP_05/tree/main)[2025-10-17]
 ### [C++ Module 06](https://github.com/luismiguelcasadodiaz/CPP_06/tree/main)[2025-10-26]
 ### [C++ Module 07](https://github.com/luismiguelcasadodiaz/CPP_07/tree/main)[2025-11-09]
-### [C++ Module 08](https://github.com/luismiguelcasadodiaz/CPP_08/tree/main)[]
+### [C++ Module 08](https://github.com/luismiguelcasadodiaz/CPP_08/tree/main)[2025-11-15]
 ### [C++ Module 09](https://github.com/luismiguelcasadodiaz/CPP_09/tree/main)[]
 ### [Inception](https://github.com/luismiguelcasadodiaz/inception/tree/main)[2025-08-21]
 ### [IRC Server](https://github.com/luismiguelcasadodiaz/ft_irc/tree/main)[2025-10-05]
