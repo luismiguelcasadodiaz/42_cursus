@@ -45,8 +45,13 @@
 ### [C++ Module 06](https://github.com/luismiguelcasadodiaz/CPP_06/tree/main)[2025-10-26]
 ### [C++ Module 07](https://github.com/luismiguelcasadodiaz/CPP_07/tree/main)[2025-11-09]
 ### [C++ Module 08](https://github.com/luismiguelcasadodiaz/CPP_08/tree/main)[2025-11-15]
-### [C++ Module 09](https://github.com/luismiguelcasadodiaz/CPP_09/tree/main)[]
+### [C++ Module 09](https://github.com/luismiguelcasadodiaz/CPP_09/tree/main)[2025-11-30]
 ### [Inception](https://github.com/luismiguelcasadodiaz/inception/tree/main)[2025-08-21]
 ### [IRC Server](https://github.com/luismiguelcasadodiaz/ft_irc/tree/main)[2025-10-05]
 ### [Exam_rank_05](https://github.com/luismiguelcasadodiaz/Exam_rank_05)[2025-11-14]
+
+## Circle 07
+### [Exam_rank_06](https://github.com/luismiguelcasadodiaz/Exam_rank_06)
+### [ft_transcendence](https://github.com/luismiguelcasadodiaz/ft_transcendence)
+
 
