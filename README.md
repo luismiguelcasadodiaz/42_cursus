@@ -51,7 +51,7 @@
 ### [Exam_rank_05](https://github.com/luismiguelcasadodiaz/Exam_rank_05)[2025-11-14]
 
 ## Circle 07
-### [Exam_rank_06](https://github.com/luismiguelcasadodiaz/Exam_rank_06)
-### [ft_transcendence](https://github.com/luismiguelcasadodiaz/ft_transcendence)
+### [Exam_rank_06](https://github.com/luismiguelcasadodiaz/Exam_rank_06)[2025-12-03]
+### [ft_transcendence](https://github.com/luismiguelcasadodiaz/ft_transcendence)[]
 
 
